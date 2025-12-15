@@ -1,0 +1,2 @@
+assignmentmanager.AssignmentManagerApp$Assignment
+assignmentmanager.AssignmentManagerApp
